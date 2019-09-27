@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "jupiter",
+        "image": "../images/jupiter.jpg",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "mars",
+        "image": "../images/mars.jpg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "mercury",
+        "image": "../images/mercury.png",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "moon",
+        "image": "../images/moon.jpg",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "neptune",
+        "image": "../images/neptune.jpg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "saturn",
+        "image": "../images/saturn.jpg",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "sun",
+        "image": "../images/sun.jpg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "uranus",
+        "image": "../images/uranus.jpg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "venus",
+        "image": "../images/venus.jpg",
+        "count": 0
+    }, 
+    {
+        "id": 10,
+        "name": "earth",
+        "image": "../images/earth.jpg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "makemake",
+        "image": "../images/makemake.jpg",
+        "count": 0
+    }, 
+    {
+        "id": 12,
+        "name": "haumea",
+        "image": "../images/haumea.jpg",
+        "count": 0
+    }, 
+    {
+        "id": 13,
+        "name": "ceres",
+        "image": "../images/ceres.jpg",
+        "count": 0
+    }, 
+    {
+        "id": 14,
+        "name": "pluto",
+        "image": "../images/pluto.jpg",
+        "count": 0
+    },
+    {
+        "id": 15,
+        "name": "eris",
+        "image": "../images/eris.jpg",
+        "count": 0
+    }
+]

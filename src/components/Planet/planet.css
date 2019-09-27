@@ -1,0 +1,11 @@
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+img:hover {
+    box-shadow: 2px 2px 40px gainsboro;
+    cursor: grabbing;
+}
