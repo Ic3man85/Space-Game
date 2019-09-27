@@ -3,6 +3,10 @@
   "homepage": "https://ic3man85.github.io/Clicky-Game",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.9.0",
+    "node": "10.16.0"
+  },
   "dependencies": {
     "normalize.css": "^8.0.1",
     "react": "^16.9.0",
